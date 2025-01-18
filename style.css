@@ -1,0 +1,36 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    background-color: lawngreen;
+    
+}
+
+
+nav a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightgreen;
+    color: darkgreen;
+}
+h1{
+    background-color: lawngreen;
+    color: white;
+}
+p1{
+    background-color: lightgreen;
+    color: darkgreen;
+}
+h2{
+    background-color: lawngreen;
+    color: white;
+}
+h3{
+    background-color: lawngreen;
+    color: white;
+}
